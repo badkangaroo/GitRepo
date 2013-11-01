@@ -12,6 +12,6 @@ public class NewBehaviourScript : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 	//test3
-	//another remote change2
+	//another remote change3
 	}
 }
